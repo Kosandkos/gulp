@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+}
+body {
+    color: rgb(225, 0, 255);
+    background:linear-gradient(to bottom, rgb(201, 226, 57), rgb(155, 30, 155));
+    height: 100%;
+}
+p{
+    color:aqua;
+}
+a {
+    color: green;
+    transition: all .5s;
+}
+a:hover {
+    color: darkcyan;
+    transform: scale(1.2);
+}
